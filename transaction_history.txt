@@ -1,0 +1,5 @@
+[2025-01-13T18:17:16.1632488] Operation: WITHDRAWAL, Currency: BGN, Amount: 100.00
+[2025-01-13T18:22:42.4264509] Operation: WITHDRAWAL, Currency: EUR, Amount: 500.00
+[2025-01-13T18:23:49.7515346] Operation: DEPOSIT, Currency: BGN, Amount: 600.00
+[2025-01-13T18:25:05.3630102] Operation: DEPOSIT, Currency: EUR, Amount: 200.00
+[2025-01-13T18:50:48.689613] Operation: WITHDRAWAL, Currency: BGN, Amount: 100.00
